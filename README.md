@@ -1,8 +1,8 @@
-# Zircular Framework
+# ZLab Operational Truth Framework
 
-Building a stronger foundation for AI systems that should not be trusted on fluency alone.
+Framework for Operational Truth and Industrial Decision Intelligence through Constrained Multi-Model Inference.
 
-The `Zircular Framework` is an epistemic governance framework for AI-assisted systems. Its purpose is to make claims, outputs, recommendations, and explanatory artifacts more traceable, more disciplined, and more trustworthy under real-world conditions.
+The `ZLab Operational Truth Framework` is an epistemic governance framework for AI-assisted systems. Its purpose is to make claims, outputs, recommendations, and explanatory artifacts more traceable, more disciplined, and more trustworthy under real-world conditions.
 
 This project starts from a simple belief:
 
@@ -22,7 +22,7 @@ We want systems that:
 - make claims reconstructible instead of opaque
 - preserve useful reasoning without pretending to certainty
 
-`Zircular Framework` is an attempt to move AI from impressive language toward dependable judgment.
+`ZLab Operational Truth Framework` is an attempt to move AI from impressive language toward dependable judgment.
 
 ## Core Idea
 
